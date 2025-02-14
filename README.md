@@ -18,7 +18,7 @@ This project is an **Image Steganography** application that allows users to hide
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone git@github.com:patil-digvijay/aicte-project.git
+   git clone https://github.com/patil-digvijay/aicte-project.git
    cd aicte-project
    ```
 
