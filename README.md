@@ -31,7 +31,7 @@ This project is an **Image Steganography** application that allows users to hide
 3. **Run the Application**:
    Execute the following command in your terminal:
    ```bash
-   python GUIstego.py
+   python stego.py
    ```
 
 ## How to Use
